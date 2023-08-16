@@ -1,8 +1,9 @@
 //
 //  ViewController.swift
-//  BMICalculator
+//  BMI Calculator
 //
-//  Created by Kirishikesan on 2023-08-16.
+//  Created by Angela Yu on 21/08/2019.
+//  Copyright © 2019 Angela Yu. All rights reserved.
 //
 
 import UIKit
